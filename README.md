@@ -13,5 +13,6 @@ https://github.com/neon-izm/UnityTextMeshProNotoSansForRude/issues
 - Noto sans https://fonts.google.com/noto 
 
 ## Screenshot
+![image](https://github.com/neon-izm/UnityTextMeshProNotoSansForRude/assets/3115650/a3b575e0-1449-467c-bff4-c3b36d503426)
 
-![image](https://github.com/neon-izm/UnityTextMeshProNotoSansForRude/assets/3115650/88804bec-b407-4d87-8896-b971cc9f3e81)
+- emoji+material icons with tmpro
