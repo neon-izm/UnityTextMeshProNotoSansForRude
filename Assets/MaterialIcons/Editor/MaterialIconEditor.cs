@@ -61,7 +61,7 @@ public class MaterialIconEditor : UnityEditor.UI.TextEditor
 		if(MaterialIconsRegular == null)
 		{
 			EditorGUILayout.Space();
-			EditorGUILayout.HelpBox("Could not find \"MaterialIcons-Regular\" font data.", MessageType.Error);
+			EditorGUILayout.HelpBox("Could not find \"MaterialSymbolsOutlined[FILL,GRAD,opsz,wght]\" font data.", MessageType.Error);
 		}
 
 		EditorGUILayout.Space();

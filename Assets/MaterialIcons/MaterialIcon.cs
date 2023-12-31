@@ -44,10 +44,10 @@ public class MaterialIcon : Text
 		base.SetLayoutDirty();
 	}
 
-	/// <summary> Searches for the \"MaterialIcons-Regular\" font inside the project. </summary>
+	/// <summary> Searches for the \"MaterialSymbolsOutlined[FILL,GRAD,opsz,wght]\" font inside the project. </summary>
 	public void LoadFont()
 	{
-		foreach(string guid in UnityEditor.AssetDatabase.FindAssets("t:Font MaterialIcons-Regular"))
+		foreach(string guid in UnityEditor.AssetDatabase.FindAssets("t:Font MaterialSymbolsOutlined[FILL,GRAD,opsz,wght]"))
 		{
 			string assetPath = UnityEditor.AssetDatabase.GUIDToAssetPath(guid);
 

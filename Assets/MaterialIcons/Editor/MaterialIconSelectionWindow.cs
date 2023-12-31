@@ -99,7 +99,7 @@ public class MaterialIconSelectionWindow : EditorWindow
 
 		if(MaterialIconsRegular == null)
 		{
-			EditorGUILayout.HelpBox("Could not find \"MaterialIcons-Regular\" font data.", MessageType.Error);
+			EditorGUILayout.HelpBox("Could not find \"MaterialSymbolsOutlined[FILL,GRAD,opsz,wght]\" font data.", MessageType.Error);
 			return;
 		}
 
