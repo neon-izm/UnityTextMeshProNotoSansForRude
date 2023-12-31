@@ -82,6 +82,13 @@ public class MaterialIconEditor : UnityEditor.UI.TextEditor
 
 		EditorGUILayout.Space();
 
+		EditorGUILayout.BeginHorizontal();
+		EditorGUILayout.LabelField("Codepoint", GUILayout.Width(EditorGUIUtility.labelWidth));
+		// readonly iconUnicode
+		EditorGUILayout.SelectableLabel(icon.iconUnicode, GUILayout.Height(EditorGUIUtility.singleLineHeight));
+		
+		EditorGUILayout.EndHorizontal();
+
 		EditorGUILayout.PropertyField(spColor);
 		EditorGUILayout.PropertyField(spRaycastTarget);
 
