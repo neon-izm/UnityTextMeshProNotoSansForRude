@@ -480,7 +480,7 @@ MonoBehaviour:
   ShowLines: 0
   ShowMeshBounds: 0
   ShowTextBounds: 0
-  ObjectStats: 'Characters: 16   Words: 3   Spaces: 4   Sprites: 0   Links: 0
+  ObjectStats: 'Characters: 17   Words: 4   Spaces: 4   Sprites: 0   Links: 0
 
     Lines:
     1   Pages: 1'
@@ -505,7 +505,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: " \r\u9019\u4EFD\U0001F633\t\U0001F601\t\U0001F614\t\U0001F60C\u6A23\u672C\u8981\u5BC4\u7D66"
+  m_text: " \r\u9019\u4EFD\U0001F633\t\U0001F601\t\U0001F614\t\U0001F60C\u6A23\u672C\u8981\\ue1e2\u5BC4\u7D66"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 29cef2fa8a1d9314b9ddd6d2791dbe25, type: 2}
   m_sharedMaterial: {fileID: -8213590706319760025, guid: 29cef2fa8a1d9314b9ddd6d2791dbe25, type: 2}
@@ -1779,7 +1779,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u3042\u306E\u30A4\u30FC\u30CF\u30C8\u30FC\u30F4\u30A9\u306E\U0001F4DD\u7D75\u6587\u5B57\u306B\u3064\u3044
+  m_text: "\u3042\u306E\u30A4\u30FC\u30CF\u30C8\u30FC\u30F4\u30A9<color=orange><size=130%>\\ue8ff\\ue9cd</color></size>\u306E\U0001F4DD\u7D75\u6587\u5B57\u306B\u3064\u3044
     \u3059\u304D\u3068\u304A\u3063\u305F\u98A8\u3001\u590F\u3067\u3082\u5E95\u306B\u51B7\u305F\u3055\u3092\u3082\u3064\u9752\u3044\u305D\u3089\u3001\u3046\u3064\u304F\u3057\u3044\u68EE\u3067\u98FE\u3089\u308C\u305F\u30E2\u30EA\u30FC\u30AA\u5E02
     \U0001F47F\u60AA\u9B54 \U0001F479\u9B3C \U0001F47A\u5929\u72D7"
   m_isRightToLeft: 0
@@ -2256,7 +2256,7 @@ MonoBehaviour:
   ShowLines: 0
   ShowMeshBounds: 0
   ShowTextBounds: 0
-  ObjectStats: 'Characters: 111   Words: 25   Spaces: 29   Sprites: 0   Links: 0
+  ObjectStats: 'Characters: 113   Words: 25   Spaces: 30   Sprites: 0   Links: 0
 
     Lines:
     4   Pages: 1'
@@ -2286,7 +2286,8 @@ MonoBehaviour:
     \uC555\uC218\uB098 \uC218\uC0C9\uC744 \uD560 \uB54C\uC5D0\uB294 \uAC80\uC0AC\uC758
     \uC2E0\uCCAD\uC5D0 \uC758\uD558\uC5EC \uBC95\uAD00\uC774 \uBC1C\uBD80\uD55C \uC601\uC7A5\uC744
     \uC81C\uC2DC\uD558\uC5EC\uC57C \uD55C\uB2E4. \U0001F633\t\U0001F601\t\U0001F614\t\U0001F60C\uBAA8\uB4E0
-    \uAD6D\uBBFC\uC740 \uC591\uC2EC\uC758 \uC790\uC720\uB97C \uAC00\uC9C4\uB2E4.\r\n\r\n"
+    \uAD6D\uBBFC\uC740 \uC591\uC2EC\uC758 <color=orange>\\ue412 </color>\uC790\uC720\uB97C
+    \uAC00\uC9C4\uB2E4.\r\n\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e6a8625c52a073b4e9dcb72129364819, type: 2}
   m_sharedMaterial: {fileID: -2321803822508388269, guid: e6a8625c52a073b4e9dcb72129364819, type: 2}
