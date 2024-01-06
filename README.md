@@ -24,8 +24,8 @@ PR is welcome!
 
 # Usage
 [to Wiki Page](../../wiki)
-
-note:if you want to use emoji please add upm Full Emoji Support Api  https://forum.unity.com/threads/full-emoji-support-api-emoji-sequen.660310/
+>[!NOTE] 
+> sample scene doesn't show emojis. because you should import Full Emoji Support Api https://forum.unity.com/threads/full-emoji-support-api-emoji-sequen.660310/
 
 # Environment
 - Unity 2021.3.25f1
