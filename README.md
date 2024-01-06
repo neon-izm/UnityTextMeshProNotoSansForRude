@@ -8,7 +8,7 @@ https://github.com/neon-izm/UnityTextMeshProNotoSansForRude/issues
 
 # Install
 - Git URL (UPM)
-  - https://github.com/neon-izm/UnityTextMeshProNotoSansForRude.git#upm to Package Manager.
+  - Add `https://github.com/neon-izm/UnityTextMeshProNotoSansForRude.git#upm` to Package Manager.
 
 # Need help
 - more correct fontface settings
