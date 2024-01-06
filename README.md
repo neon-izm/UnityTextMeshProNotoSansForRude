@@ -17,12 +17,6 @@ for [日本語](README_ja.md)
 
 PR is welcome!
 
-# Environment
-- Unity 2021.3.25f1
-- TextMeshPro 3.0.6
-- https://github.com/convalise/unity-material-icons
-- Noto sans https://fonts.google.com/noto 
-
 # Screenshot
 ![image](https://github.com/neon-izm/UnityTextMeshProNotoSansForRude/assets/3115650/a3b575e0-1449-467c-bff4-c3b36d503426)
 
@@ -32,3 +26,9 @@ PR is welcome!
 [to Wiki Page](../../wiki)
 
 note:if you want to use emoji please add upm Full Emoji Support Api  https://forum.unity.com/threads/full-emoji-support-api-emoji-sequen.660310/
+
+# Environment
+- Unity 2021.3.25f1
+- TextMeshPro 3.0.6
+- https://github.com/convalise/unity-material-icons
+- Noto sans https://fonts.google.com/noto 

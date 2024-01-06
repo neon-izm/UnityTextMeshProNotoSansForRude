@@ -16,12 +16,6 @@
 
 プルリクエストは歓迎します！
 
-# 環境
-- Unity 2021.3.25f1
-- TextMeshPro 3.0.6
-- https://github.com/convalise/unity-material-icons
-- Noto sans https://fonts.google.com/noto
-
 # スクリーンショット
 ![image](https://github.com/neon-izm/UnityTextMeshProNotoSansForRude/assets/3115650/a3b575e0-1449-467c-bff4-c3b36d503426)
 
@@ -31,3 +25,9 @@
 [Wikiページへ](../../wiki)
 
 注：絵文字を使用する場合は、UPM Full Emoji Support Apiを追加してください https://forum.unity.com/threads/full-emoji-support-api-emoji-sequen.660310/
+
+# 環境
+- Unity 2021.3.25f1
+- TextMeshPro 3.0.6
+- https://github.com/convalise/unity-material-icons
+- Noto sans https://fonts.google.com/noto
