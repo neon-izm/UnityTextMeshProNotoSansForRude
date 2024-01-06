@@ -7,11 +7,16 @@ This package contains
 if you find missing characters, please report to issue
 
 for [日本語](README_ja.md) 
+
 # Install
 - Git URL (UPM)
   - Add `https://github.com/neon-izm/UnityTextMeshProNotoSansForRude.git#upm` to Package Manager.
+  
+![image](https://github.com/neon-izm/UnityTextMeshProNotoSansForRude/assets/3115650/773be7f2-8f1e-45cd-ae41-e9a993d3a4ef)
 
-# Need help[README_ja.md](README_ja.md)
+![image](https://github.com/neon-izm/UnityTextMeshProNotoSansForRude/assets/3115650/c1f8a098-eeb7-4cf2-95c3-764e045025f9)
+
+# Need help
 - more correct fontface settings(ascent line, mean line etc)
 - other languages support (ie.Tagalog)
 
