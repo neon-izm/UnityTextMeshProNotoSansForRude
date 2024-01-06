@@ -413,7 +413,6 @@ GameObject:
   - component: {fileID: 218679369}
   - component: {fileID: 218679373}
   - component: {fileID: 218679372}
-  - component: {fileID: 218679371}
   - component: {fileID: 218679370}
   m_Layer: 5
   m_Name: TextTc
@@ -462,29 +461,6 @@ MonoBehaviour:
   m_FlexibleWidth: -1
   m_FlexibleHeight: -1
   m_LayoutPriority: 1
---- !u!114 &218679371
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 218679368}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 21256c5b62f346f18640dad779911e20, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ShowCharacters: 0
-  ShowWords: 0
-  ShowLinks: 1
-  ShowLines: 0
-  ShowMeshBounds: 0
-  ShowTextBounds: 0
-  ObjectStats: 'Characters: 17   Words: 4   Spaces: 4   Sprites: 0   Links: 0
-
-    Lines:
-    1   Pages: 1'
-  m_TextComponent: {fileID: 218679372}
 --- !u!114 &218679372
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -902,7 +878,7 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 1
-  m_TargetGraphic: {fileID: 0}
+  m_TargetGraphic: {fileID: 706415329}
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
@@ -1522,7 +1498,6 @@ GameObject:
   - component: {fileID: 1618178091}
   - component: {fileID: 1618178095}
   - component: {fileID: 1618178094}
-  - component: {fileID: 1618178093}
   - component: {fileID: 1618178092}
   m_Layer: 5
   m_Name: TextLatin
@@ -1571,29 +1546,6 @@ MonoBehaviour:
   m_FlexibleWidth: -1
   m_FlexibleHeight: -1
   m_LayoutPriority: 1
---- !u!114 &1618178093
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1618178090}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 21256c5b62f346f18640dad779911e20, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ShowCharacters: 0
-  ShowWords: 0
-  ShowLinks: 1
-  ShowLines: 0
-  ShowMeshBounds: 0
-  ShowTextBounds: 0
-  ObjectStats: 'Characters: 82   Words: 4   Spaces: 5   Sprites: 0   Links: 0
-
-    Lines:
-    2   Pages: 1'
-  m_TextComponent: {fileID: 1618178094}
 --- !u!114 &1618178094
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1768,7 +1720,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1838624359}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 142862eacae1fc34db32964b32f0585a, type: 3}
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
@@ -1850,7 +1802,6 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
-  m_monospaceDistEm: 0
 --- !u!1 &1853860279
 GameObject:
   m_ObjectHideFlags: 0
@@ -2008,7 +1959,6 @@ GameObject:
   - component: {fileID: 1962804953}
   - component: {fileID: 1962804957}
   - component: {fileID: 1962804956}
-  - component: {fileID: 1962804955}
   - component: {fileID: 1962804954}
   m_Layer: 5
   m_Name: TextSc
@@ -2057,29 +2007,6 @@ MonoBehaviour:
   m_FlexibleWidth: -1
   m_FlexibleHeight: -1
   m_LayoutPriority: 1
---- !u!114 &1962804955
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1962804952}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 21256c5b62f346f18640dad779911e20, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ShowCharacters: 0
-  ShowWords: 0
-  ShowLinks: 1
-  ShowLines: 0
-  ShowMeshBounds: 0
-  ShowTextBounds: 0
-  ObjectStats: 'Characters: 15   Words: 3   Spaces: 3   Sprites: 0   Links: 0
-
-    Lines:
-    1   Pages: 1'
-  m_TextComponent: {fileID: 1962804956}
 --- !u!114 &1962804956
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2189,7 +2116,6 @@ GameObject:
   - component: {fileID: 2119421107}
   - component: {fileID: 2119421111}
   - component: {fileID: 2119421110}
-  - component: {fileID: 2119421109}
   - component: {fileID: 2119421108}
   m_Layer: 5
   m_Name: TextKr
@@ -2238,29 +2164,6 @@ MonoBehaviour:
   m_FlexibleWidth: -1
   m_FlexibleHeight: -1
   m_LayoutPriority: 1
---- !u!114 &2119421109
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2119421106}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 21256c5b62f346f18640dad779911e20, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ShowCharacters: 0
-  ShowWords: 0
-  ShowLinks: 1
-  ShowLines: 0
-  ShowMeshBounds: 0
-  ShowTextBounds: 0
-  ObjectStats: 'Characters: 113   Words: 25   Spaces: 30   Sprites: 0   Links: 0
-
-    Lines:
-    4   Pages: 1'
-  m_TextComponent: {fileID: 2119421110}
 --- !u!114 &2119421110
 MonoBehaviour:
   m_ObjectHideFlags: 0
