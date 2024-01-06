@@ -1,0 +1,30 @@
+{
+    "name": "com.neon-izm.tmpro_fonts_rude",
+    "version": "0.0.1",
+    "displayName": "RudeUiAssets",
+    "description": "Prebuilt TextMesh Pro fonts for Unity UI",
+    "dependencies": {
+        "com.unity.textmeshpro": "3.0.6"
+    },
+    "author": {
+        "name": "neon-izm",
+        "url": "https://github.com/neon-izm"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/neon-izm/UnityTextMeshProNotoSansForRude"
+    },
+    "keywords": [
+        "font",
+        "textmeshpro",
+        "material-icons"
+    ],
+    "license": "MIT License",
+    "samples": [
+        {
+            "displayName": "VisualSample",
+            "description": "An example of Font display.",
+            "path": "Samples~/DisplayPreview"
+        }
+    ]
+}
