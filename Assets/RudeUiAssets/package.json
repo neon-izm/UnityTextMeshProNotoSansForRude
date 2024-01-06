@@ -1,8 +1,8 @@
 {
     "name": "com.neon-izm.tmpro_fonts_rude",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "displayName": "RudeUiAssets",
-    "description": "Prebuilt TextMesh Pro fonts for Unity UI",
+    "description": "Prebuilt TextMesh Pro fonts and Material icons for Unity UI",
     "dependencies": {
         "com.unity.textmeshpro": "3.0.6"
     },
