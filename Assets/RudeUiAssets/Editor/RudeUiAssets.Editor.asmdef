@@ -1,0 +1,18 @@
+{
+    "name": "RudeUiAssets.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:82871138b043fd94bad9db460d5cf497"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
