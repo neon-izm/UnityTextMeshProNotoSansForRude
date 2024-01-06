@@ -10,6 +10,11 @@
 - Git URL (UPM)
   - Unityのパッケージマネージャーに`https://github.com/neon-izm/UnityTextMeshProNotoSansForRude.git#upm` を追加してください。
 
+  
+![image](https://github.com/neon-izm/UnityTextMeshProNotoSansForRude/assets/3115650/773be7f2-8f1e-45cd-ae41-e9a993d3a4ef)
+
+![image](https://github.com/neon-izm/UnityTextMeshProNotoSansForRude/assets/3115650/c1f8a098-eeb7-4cf2-95c3-764e045025f9)
+
 # ヘルプが必要
 - より正確なフォントフェイスの設定(ascent line, mean line の数値など)
 - 他の言語のサポート（例：タガログ語）
