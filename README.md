@@ -18,8 +18,8 @@ for [日本語](README_ja.md)
 
 - Scoped Registry (UPM)
     - Add a scoped registry to your project.
-      - URL: https://registry.npmjs.com
-      - Scope: com.neon-izm
+      - URL: `https://registry.npmjs.com`
+      - Scope: `com.neon-izm`  
     Install tmpro_fonts_rude in Package Manager 
 
 # Need help
