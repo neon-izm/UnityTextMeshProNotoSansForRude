@@ -16,6 +16,13 @@ for [日本語](README_ja.md)
 
 ![image](https://github.com/neon-izm/UnityTextMeshProNotoSansForRude/assets/3115650/c1f8a098-eeb7-4cf2-95c3-764e045025f9)
 
+- Scoped Registry (UPM)
+  - Add a scoped registry to your project.
+    - URL: https://registry.npmjs.com
+      - Scope: com.neon-izm
+  - Install RudeUiAssets in Package Manager.( or simply editing your projects manifest.json)
+    - [npmjs]( https://www.npmjs.com/package/com.neon-izm.tmpro-fonts-rude )
+
 # Need help
 - more correct fontface settings(ascent line, mean line etc)
 - other languages support (ie.Tagalog)
