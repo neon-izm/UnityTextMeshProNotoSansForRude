@@ -9,7 +9,7 @@
 # インストール方法
 - Git URL (UPM)
   - Unityのパッケージマネージャーに`https://github.com/neon-izm/UnityTextMeshProNotoSansForRude.git#upm` を追加してください。
-  - これを選ぶ場合、** 開発者端末にgitがインストールされていて、pathが通っている** 必要があります。
+  - これを選ぶ場合、**開発者端末にgitがインストールされていて、pathが通っている** 必要があります。
     - shellでプロジェクトのフォルダを開いて`git --version`を実行して問題なく認識していることを確認してください
   
 ![image](https://github.com/neon-izm/UnityTextMeshProNotoSansForRude/assets/3115650/773be7f2-8f1e-45cd-ae41-e9a993d3a4ef)
