@@ -11,6 +11,7 @@ for [日本語](README_ja.md)
 # Install
 - Git URL (UPM)
   - Add `https://github.com/neon-izm/UnityTextMeshProNotoSansForRude.git#upm` to Package Manager.
+  - You need to prepare git enviroment.
   
 ![image](https://github.com/neon-izm/UnityTextMeshProNotoSansForRude/assets/3115650/773be7f2-8f1e-45cd-ae41-e9a993d3a4ef)
 
